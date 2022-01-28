@@ -1,0 +1,8 @@
+file_format: "1"
+id: 66key
+name: 66key
+type: shield
+url: https://makerdiary.com/pages/m60-mechanical-keyboard
+requires: [makerdiary_nrf52840_m2]
+features:
+  - keys
