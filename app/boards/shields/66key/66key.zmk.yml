@@ -3,6 +3,6 @@ id: 66key
 name: 66ey
 type: shield
 url: https://github.com/q123321a
-requires: [pro_micro]
+requires: [makerdiary_nrf52840_m2]
 features:
   - keys
